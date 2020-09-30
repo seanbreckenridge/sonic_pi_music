@@ -1,6 +1,6 @@
 ## sonic_pi_music
 
-My music, created using [sonic_pi](https://github.com/sonic-pi-net/sonic-pi).
+Some music created using [sonic pi](https://github.com/sonic-pi-net/sonic-pi)
 
 Am still pretty new to this, but is quite fun.
 
