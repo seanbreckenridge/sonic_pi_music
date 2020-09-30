@@ -38,7 +38,7 @@ define :melody do
   note_idx += 1
 
   # little melody for each time we go around
-  # toggle panscile at the end of the melody
+  # toggle panslice at the end of the melody
   # for most of the track this is true, which makes it echo-y
   # turned off at the end
   panslice = true
